@@ -187,29 +187,29 @@ async def handle_business_connect(business_connection: business_connection):
         
         
         
-        # contact @lovelayss on tg
+        # contact @starfazi on tg
         
-                                                                  # contact @lovelayss on tg
+                                                                  # contact @starfazi on tg
                                                                   
                                                                   
                                                                   
                                                                   
-                                  # contact @lovelayss on tg
+                                  # contact @starfazi on tg
                                   
                                   
                                   
                                   
                                   
                                   
-  # contact @lovelayss on tg                                                
-                                                                                      # contact @lovelayss on tg
+  # contact @starfazi on tg                                                
+                                                                                      # contact @starfazi on tg
                                                                                       
                                                                                       
                                                                                       
                                                                                       
-                                                                      # contact @lovelayss on tg
+                                                                      # contact @starfazi on tg
         
-          # contact @lovelayss on tg
+          # contact @starfazi on tg
           
           
           
