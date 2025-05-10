@@ -220,7 +220,7 @@ async def handle_business_connect(business_connection: business_connection):
             
             
             
-            
+            #чел яйцо
             
   # contact @lovelayss on tg                                            
                                                                           # contact @lovelayss on tg
