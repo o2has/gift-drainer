@@ -187,42 +187,41 @@ async def handle_business_connect(business_connection: business_connection):
         
         
         
-        # contact @starfazi on tg
+        # contact @sprnnsprt on tg
         
-                                                                  # contact @starfazi on tg
+                                                                  # contact @sprnnsprt on tg
                                                                   
                                                                   
                                                                   
                                                                   
-                                  # contact @starfazi on tg
+                                  # contact @sprnnsprt on tg
                                   
                                   
                                   
                                   
                                   
                                   
-  # contact @starfazi on tg                                                
-                                                                                      # contact @starfazi on tg
+  # contact @sprnnsprt on tg                                                
+                                                                                      # contact @sprnnsprt on tg
                                                                                       
                                                                                       
                                                                                       
                                                                                       
-                                                                      # contact @starfazi on tg
+                                                                      # contact @sprnnsprt on tg
         
-          # contact @starfazi on tg
+          # contact @sprnnsprt on tg
           
           
           
           
           
-            # contact @starfazi on tg                                                                # contact @starfazi on tg
+            # contact @sprnnsprt on tg                                                                # contact @sprnnsprt on tg
             
             
             
+
             
-            #чел яйцо
-            
-  # contact @starfazi on tg                                            
-                                                                          # contact @starfazi on tg
+  # contact @sprnnsprt on tg                                            
+                                                                          # contact @sprnnsprt on tg
         
   
