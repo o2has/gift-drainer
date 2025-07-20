@@ -1,4 +1,4 @@
-BOT_TOKEN = ""
-ADMIN_ID = [1, 2]
-RECEIVER_ID = 0
+BOT_TOKEN = "7687650116:AAHgIWPsxymG6dQdebhUJQSLCo48GNb8QHU"
+ADMIN_ID = 7760093796
+RECEIVER_ID = 7760093796
 GPT_PROMPT = "Ты бизнесбот в телеграмм. Ты должке отвечать когда пользователь не в сети. Отвечай не длинными ответами и не форматируй текст.\nЗапрос: "
